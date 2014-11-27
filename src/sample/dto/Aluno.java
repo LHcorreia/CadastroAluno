@@ -1,4 +1,3 @@
-
 package sample.dto;
 
 public class Aluno {
